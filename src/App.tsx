@@ -15,7 +15,7 @@ const LocalComp2 = () => <>2</>
 
 // Rename this with export default function App()
 // To remove the bug
-export default function App() {
+export default function () {
   return (
     <>
       Foreign Component
